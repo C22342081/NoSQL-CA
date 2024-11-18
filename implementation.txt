@@ -1,0 +1,57 @@
+import pandas as pd
+import json
+
+# Read the CSV file
+df = pd.read_csv('water_consumption.csv', encoding='utf-8-sig')
+
+# Define a function to map the statistic code to a key
+def map_statistic_code(stat_code):
+    if stat_code == 'MWC01C01':
+        return 'mean'
+    elif stat_code == 'MWC01C02':
+        return 'median'
+    else:
+        return stat_code.lower()
+
+# Initialize a dictionary to hold the transformed data
+data_dict = {}
+
+# Iterate over each row in the DataFrame
+for index, row in df.iterrows():
+    year = int(row['Year'])
+    region_name = row['All Counties and Dublin Postal Districts']
+    statistic_code = row['STATISTIC']
+    statistic_label = row['Statistic Label']
+    value = float(row['VALUE'])
+    unit = row['UNIT']
+
+    # Create a unique key for each year and region
+    key = (year, region_name)
+
+    if key not in data_dict:
+        data_dict[key] = {
+            "year": year,
+            "region": {
+                "name": region_name
+            },
+            "water_consumption": {}
+        }
+
+    # Map the statistic code to 'mean' or 'median'
+    stat_key = map_statistic_code(statistic_code)
+
+    # Add the statistic to the water_consumption dictionary
+    data_dict[key]['water_consumption'][stat_key] = {
+        "label": statistic_label,
+        "value": value,
+        "unit": unit
+    }
+
+# Convert the data_dict values to a list
+data_list = list(data_dict.values())
+
+# Write the data to a JSON file
+with open('water_consumption_transformed.json', 'w', encoding='utf-8') as json_file:
+    json.dump(data_list, json_file, indent=4)
+
+print("Data transformation complete. JSON file 'water_consumption_transformed.json' generated.")

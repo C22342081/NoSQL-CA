@@ -1,0 +1,6050 @@
+[
+    {
+        "year": 2016,
+        "region": {
+            "name": "All Counties"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 368.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 246.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Carlow"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 370.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 250.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Cavan"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 304.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 215.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Clare"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 360.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 218.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Cork"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 387.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 250.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Donegal"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 335.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 201.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Dublin"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 362.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 270.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Galway"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 430.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 256.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Kerry"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 390.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 218.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Kildare"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 366.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 270.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Kilkenny"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 359.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 242.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Laois"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 387.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 261.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Leitrim"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 346.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 185.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Limerick"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 352.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 237.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Longford"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 387.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 233.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Louth"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 363.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 250.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Mayo"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 334.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 204.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Meath"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 358.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 276.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Monaghan"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 320.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 227.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Offaly"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 417.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 265.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Roscommon"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 409.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 224.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Sligo"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 345.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 201.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Tipperary"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 403.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 241.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Waterford"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 356.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 241.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Westmeath"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 392.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 244.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Wexford"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 326.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 217.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Co. Wicklow"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 359.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 261.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Dublin 1"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 345.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 226.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Dublin 2"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 409.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 216.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Dublin 3"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 384.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 241.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Dublin 4"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 420.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 243.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Dublin 5"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 302.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 225.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Dublin 6"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 460.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 262.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Dublin 6W"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 329.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 246.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Dublin 7"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 335.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 218.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Dublin 8"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 415.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 205.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Dublin 9"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 329.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 227.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Dublin 11"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 383.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 244.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Dublin 12"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 297.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 212.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Dublin 13"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 359.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 259.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Dublin 14"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 348.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 250.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Dublin 15"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 358.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 282.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Dublin 16"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 316.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 262.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Dublin 17"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 523.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 272.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Dublin 18"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 376.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 283.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Dublin 20"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 278.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 227.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Dublin 22"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 449.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 253.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "region": {
+            "name": "Dublin 24"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 594.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 274.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "All Counties"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 374.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 252.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Carlow"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 376.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 257.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Cavan"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 305.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 220.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Clare"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 348.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 220.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Cork"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 388.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 254.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Donegal"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 334.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 207.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Dublin"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 358.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 275.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Galway"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 428.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 261.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Kerry"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 403.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 226.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Kildare"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 376.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 275.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Kilkenny"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 374.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 251.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Laois"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 416.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 273.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Leitrim"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 366.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 197.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Limerick"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 359.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 245.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Longford"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 374.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 235.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Louth"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 385.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 254.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Mayo"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 335.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 213.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Meath"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 370.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 283.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Monaghan"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 320.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 230.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Offaly"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 447.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 273.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Roscommon"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 421.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 238.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Sligo"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 343.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 210.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Tipperary"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 422.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 249.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Waterford"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 361.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 246.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Westmeath"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 398.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 247.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Wexford"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 343.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 225.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Co. Wicklow"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 370.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 265.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Dublin 1"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 325.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 233.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Dublin 2"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 417.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 213.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Dublin 3"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 392.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 249.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Dublin 4"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 433.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 246.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Dublin 5"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 296.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 231.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Dublin 6"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 435.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 268.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Dublin 6W"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 333.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 251.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Dublin 7"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 360.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 226.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Dublin 8"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 391.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 209.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Dublin 9"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 333.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 234.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Dublin 11"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 369.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 250.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Dublin 12"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 300.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 218.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Dublin 13"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 362.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 261.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Dublin 14"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 338.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 255.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Dublin 15"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 360.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 291.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Dublin 16"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 311.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 264.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Dublin 17"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 672.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 284.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Dublin 18"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 376.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 286.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Dublin 20"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 294.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 236.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Dublin 22"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 459.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 259.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "region": {
+            "name": "Dublin 24"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 582.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 275.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "All Counties"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 368.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 255.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Carlow"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 377.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 264.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Cavan"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 306.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 228.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Clare"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 327.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 223.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Cork"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 380.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 258.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Donegal"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 322.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 212.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Dublin"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 356.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 273.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Galway"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 413.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 265.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Kerry"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 399.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 229.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Kildare"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 366.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 277.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Kilkenny"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 369.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 254.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Laois"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 406.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 279.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Leitrim"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 356.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 206.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Limerick"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 360.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 249.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Longford"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 390.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 245.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Louth"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 379.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 258.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Mayo"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 339.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 218.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Meath"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 376.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 287.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Monaghan"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 325.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 234.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Offaly"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 417.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 276.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Roscommon"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 420.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 248.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Sligo"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 332.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 216.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Tipperary"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 413.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 253.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Waterford"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 352.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 248.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Westmeath"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 403.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 254.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Wexford"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 340.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 229.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Co. Wicklow"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 351.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 263.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Dublin 1"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 351.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 225.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Dublin 2"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 479.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 230.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Dublin 3"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 389.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 248.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Dublin 4"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 386.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 241.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Dublin 5"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 293.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 230.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Dublin 6"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 414.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 263.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Dublin 6W"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 326.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 248.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Dublin 7"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 348.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 224.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Dublin 8"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 376.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 206.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Dublin 9"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 322.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 232.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Dublin 11"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 342.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 250.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Dublin 12"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 294.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 216.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Dublin 13"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 372.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 259.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Dublin 14"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 337.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 253.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Dublin 15"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 367.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 292.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Dublin 16"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 312.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 261.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Dublin 17"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 771.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 310.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Dublin 18"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 358.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 281.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Dublin 20"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 299.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 233.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Dublin 22"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 455.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 260.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "region": {
+            "name": "Dublin 24"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 540.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 276.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "All Counties"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 354.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 256.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Carlow"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 355.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 267.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Cavan"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 310.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 233.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Clare"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 315.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 225.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Cork"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 360.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 259.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Donegal"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 305.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 213.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Dublin"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 349.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 274.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Galway"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 385.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 268.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Kerry"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 379.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 231.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Kildare"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 352.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 276.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Kilkenny"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 352.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 254.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Laois"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 400.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 282.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Leitrim"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 347.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 209.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Limerick"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 349.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 250.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Longford"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 379.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 249.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Louth"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 363.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 258.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Mayo"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 333.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 221.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Meath"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 370.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 289.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Monaghan"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 324.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 237.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Offaly"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 403.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 277.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Roscommon"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 389.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 250.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Sligo"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 328.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 219.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Tipperary"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 397.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 253.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Waterford"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 329.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 248.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Westmeath"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 386.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 257.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Wexford"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 314.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 230.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Co. Wicklow"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 339.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 262.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Dublin 1"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 344.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 232.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Dublin 2"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 383.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 223.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Dublin 3"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 386.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 249.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Dublin 4"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 370.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 242.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Dublin 5"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 287.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 232.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Dublin 6"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 401.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 264.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Dublin 6W"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 318.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 247.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Dublin 7"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 338.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 224.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Dublin 8"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 373.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 205.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Dublin 9"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 316.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 234.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Dublin 11"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 338.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 252.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Dublin 12"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 289.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 218.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Dublin 13"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 350.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 261.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Dublin 14"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 332.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 253.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Dublin 15"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 365.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 292.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Dublin 16"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 310.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 261.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Dublin 17"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 657.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 299.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Dublin 18"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 350.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 281.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Dublin 20"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 287.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 232.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Dublin 22"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 419.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 259.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "region": {
+            "name": "Dublin 24"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 428.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 272.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "All Counties"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 378.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 283.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Carlow"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 372.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 288.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Cavan"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 334.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 261.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Clare"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 344.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 250.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Cork"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 377.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 285.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Donegal"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 333.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 240.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Dublin"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 382.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 304.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Galway"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 404.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 292.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Kerry"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 390.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 255.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Kildare"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 379.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 306.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Kilkenny"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 382.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 280.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Laois"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 428.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 311.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Leitrim"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 358.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 235.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Limerick"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 369.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 276.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Longford"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 417.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 274.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Louth"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 385.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 286.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Mayo"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 356.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 246.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Meath"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 407.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 322.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Monaghan"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 348.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 261.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Offaly"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 417.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 304.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Roscommon"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 409.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 276.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Sligo"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 348.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 243.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Tipperary"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 401.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 275.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Waterford"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 357.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 274.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Westmeath"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 417.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 287.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Wexford"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 339.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 255.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Co. Wicklow"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 367.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 289.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Dublin 1"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 417.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 271.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Dublin 2"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 378.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 236.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Dublin 3"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 410.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 280.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Dublin 4"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 393.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 269.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Dublin 5"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 309.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 255.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Dublin 6"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 421.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 293.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Dublin 6W"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 347.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 276.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Dublin 7"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 363.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 251.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Dublin 8"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 349.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 226.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Dublin 9"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 342.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 258.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Dublin 11"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 371.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 279.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Dublin 12"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 314.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 240.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Dublin 13"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 372.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 286.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Dublin 14"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 370.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 280.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Dublin 15"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 397.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 324.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Dublin 16"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 344.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 288.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Dublin 17"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 529.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 321.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Dublin 18"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 388.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 316.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Dublin 20"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 308.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 255.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Dublin 22"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 402.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 287.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "region": {
+            "name": "Dublin 24"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 463.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 311.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "All Counties"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 375.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 280.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Carlow"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 375.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 285.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Cavan"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 345.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 260.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Clare"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 341.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 245.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Cork"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 374.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 281.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Donegal"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 330.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 239.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Dublin"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 375.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 299.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Galway"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 404.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 290.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Kerry"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 379.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 252.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Kildare"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 377.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 300.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Kilkenny"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 377.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 275.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Laois"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 427.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 310.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Leitrim"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 380.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 237.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Limerick"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 369.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 274.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Longford"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 429.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 270.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Louth"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 370.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 283.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Mayo"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 354.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 243.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Meath"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 407.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 321.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Monaghan"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 348.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 256.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Offaly"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 423.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 303.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Roscommon"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 416.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 274.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Sligo"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 339.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 242.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Tipperary"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 403.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 273.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Waterford"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 362.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 272.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Westmeath"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 409.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 284.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Wexford"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 337.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 252.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Co. Wicklow"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 360.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 284.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Dublin 1"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 383.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 270.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Dublin 2"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 376.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 235.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Dublin 3"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 394.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 278.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Dublin 4"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 370.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 264.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Dublin 5"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 309.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 254.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Dublin 6"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 406.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 289.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Dublin 6W"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 345.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 274.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Dublin 7"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 355.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 246.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Dublin 8"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 352.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 223.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Dublin 9"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 343.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 258.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Dublin 11"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 370.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 278.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Dublin 12"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 311.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 238.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Dublin 13"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 375.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 283.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Dublin 14"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 355.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 278.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Dublin 15"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 391.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 317.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Dublin 16"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 337.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 282.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Dublin 17"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 599.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 311.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Dublin 18"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 377.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 309.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Dublin 20"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 299.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 249.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Dublin 22"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 391.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 278.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "region": {
+            "name": "Dublin 24"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 461.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 308.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "All Counties"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 357.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 261.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Carlow"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 352.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 268.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Cavan"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 339.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 246.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Clare"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 334.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 230.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Cork"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 359.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 263.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Donegal"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 319.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 221.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Dublin"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 354.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 277.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Galway"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 382.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 272.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Kerry"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 366.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 236.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Kildare"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 356.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 278.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Kilkenny"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 341.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 255.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Laois"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 408.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 292.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Leitrim"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 372.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 225.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Limerick"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 354.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 257.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Longford"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 424.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 258.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Louth"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 354.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 263.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Mayo"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 337.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 227.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Meath"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 387.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 301.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Monaghan"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 329.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 240.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Offaly"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 407.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 284.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Roscommon"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 392.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 260.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Sligo"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 312.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 225.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Tipperary"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 391.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 257.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Waterford"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 337.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 253.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Westmeath"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 407.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 267.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Wexford"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 305.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 234.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Co. Wicklow"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 333.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 263.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Dublin 1"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 370.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 264.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Dublin 2"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 305.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 226.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Dublin 3"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 382.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 259.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Dublin 4"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 349.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 245.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Dublin 5"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 294.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 237.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Dublin 6"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 379.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 268.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Dublin 6W"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 325.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 252.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Dublin 7"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 346.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 231.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Dublin 8"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 381.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 208.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Dublin 9"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 323.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 242.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Dublin 11"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 342.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 260.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Dublin 12"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 290.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 222.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Dublin 13"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 375.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 263.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Dublin 14"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 336.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 260.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Dublin 15"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 374.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 297.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Dublin 16"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 319.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 260.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Dublin 17"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 658.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 289.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Dublin 18"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 354.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 286.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Dublin 20"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 287.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 233.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Dublin 22"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 399.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 259.0,
+                "unit": "litres"
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "region": {
+            "name": "Dublin 24"
+        },
+        "water_consumption": {
+            "mean": {
+                "label": "Mean consumption in litres per meter per day",
+                "value": 478.0,
+                "unit": "litres"
+            },
+            "median": {
+                "label": "Median consumption in litres per meter per day",
+                "value": 300.0,
+                "unit": "litres"
+            }
+        }
+    }
+]

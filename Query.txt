@@ -1,0 +1,174 @@
+Basic Quries:
+1- Insert a New Document
+db.WaterConsumption.insertOne({
+  "year": 2023,
+  "location": {
+    "code": "NEW",
+    "name": "New County"
+  },
+  "consumption": [
+    {
+      "statistic_code": "MWC01C01",
+      "statistic_label": "Mean consumption in litres per meter per day",
+      "unit": "litres",
+      "value": 350
+    }
+  ]
+})
+
+2- Update an Existing Document
+db.WaterConsumption.updateOne(
+  { "year": 2022, "location.code": "CWC" },
+  { $set: { "consumption.$[elem].value": 360 } },
+  { arrayFilters: [ { "elem.statistic_code": "MWC01C01" } ] }
+)
+
+3- Delete a Document
+db.WaterConsumption.deleteOne({ "year": 2023, "location.code": "NEW" })
+
+Complex Quries:
+1- Find the Top 5 Counties with Highest Mean Consumption in 2022
+db.WaterConsumption.aggregate([
+  { $match: { "year": 2022 } },
+  { $unwind: "$consumption" },
+  { $match: { "consumption.statistic_code": "MWC01C01" } },
+  { $sort: { "consumption.value": -1 } },
+  { $limit: 5 },
+  {
+    $project: {
+      "_id": 0,
+      "County": "$location.name",
+      "Mean Consumption": "$consumption.value"
+    }
+  }
+])
+
+2- Identify Counties with Mean Consumption Above 400 Litres in Any Year
+db.WaterConsumption.find(
+  { "consumption": { $elemMatch: { "statistic_code": "MWC01C01", "value": { $gt: 400 } } } },
+  { "year": 1, "location.name": 1, "consumption.$": 1 }
+)
+
+3- Calculate Average Mean Consumption per Year
+db.WaterConsumption.aggregate([
+  { $unwind: "$consumption" },
+  { $match: { "consumption.statistic_code": "MWC01C01" } },
+  {
+    $group: {
+      "_id": "$year",
+      "AverageConsumption": { $avg: "$consumption.value" }
+    }
+  },
+  { $sort: { "_id": 1 } }
+])
+
+4-Find Counties Where Median Consumption Decreased from 2020 to 2021
+db.WaterConsumption.aggregate([
+  { $match: { "year": { $in: [2020, 2021] } } },
+  { $unwind: "$consumption" },
+  { $match: { "consumption.statistic_code": "MWC01C02" } },
+  {
+    $group: {
+      "_id": { "location": "$location.name", "year": "$year" },
+      "MedianValue": { $first: "$consumption.value" }
+    }
+  },
+  {
+    $group: {
+      "_id": "$_id.location",
+      "values": {
+        $push: {
+          "year": "$_id.year",
+          "MedianValue": "$MedianValue"
+        }
+      }
+    }
+  },
+  {
+    $project: {
+      "decreased": {
+        $cond: [
+          {
+            $and: [
+              { $eq: [ { $size: "$values" }, 2 ] },
+              { $lt: [ "$values.1.MedianValue", "$values.0.MedianValue" ] }
+            ]
+          },
+          true,
+          false
+        ]
+      }
+    }
+  },
+  { $match: { "decreased": true } },
+  { $project: { "_id": 1 } }
+])
+
+5-List All Unique Statistics Recorded in the Dataset
+db.WaterConsumption.distinct("consumption.statistic_label")
+
+6- Find the Mean Consumption for 'Co. Dublin' Over the Years
+db.WaterConsumption.aggregate([
+  { $match: { "location.name": "Co. Dublin" } },
+  { $unwind: "$consumption" },
+  { $match: { "consumption.statistic_code": "MWC01C01" } },
+  {
+    $project: {
+      "_id": 0,
+      "Year": "$year",
+      "Mean Consumption": "$consumption.value"
+    }
+  },
+  { $sort: { "Year": 1 } }
+])
+
+7-Find Counties with Mean Consumption Above the National Average in 2022
+// First, calculate the national average
+var nationalAvg = db.WaterConsumption.aggregate([
+  { $match: { "year": 2022 } },
+  { $unwind: "$consumption" },
+  { $match: { "consumption.statistic_code": "MWC01C01" } },
+  {
+    $group: {
+      "_id": null,
+      "Average": { $avg: "$consumption.value" }
+    }
+  }
+]).toArray()[0].Average;
+
+// Then, find counties above this average
+db.WaterConsumption.aggregate([
+  { $match: { "year": 2022 } },
+  { $unwind: "$consumption" },
+  { $match: { "consumption.statistic_code": "MWC01C01" } },
+  { $match: { "consumption.value": { $gt: nationalAvg } } },
+  {
+    $project: {
+      "_id": 0,
+      "County": "$location.name",
+      "Mean Consumption": "$consumption.value"
+    }
+  }
+])
+
+
+2. Create an Admin Role and User
+
+// Create the adminRole
+db.createRole({
+  role: "adminRole",
+  privileges: [
+    {
+      resource: { db: "CitySustainability", collection: "" },
+      actions: [ "find", "insert", "update", "remove", "createCollection", "dropCollection" ]
+    }
+  ],
+  roles: []
+})
+
+// Create the user and assign the role
+db.createUser({
+  user: "Admin",
+  pwd: "pa33word",
+  roles: [ { role: "adminRole", db: "CitySustainability" } ]
+})
